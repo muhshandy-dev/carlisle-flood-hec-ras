@@ -129,7 +129,7 @@ carlisle-flood-hec/
 **Prasyarat:** Python 3.12, [HEC-HMS 4.14](https://www.hec.usace.army.mil/software/hec-hms/), [HEC-RAS 6.6](https://www.hec.usace.army.mil/software/hec-ras/), QGIS (opsional).
 
 ```bash
-git clone https://github.com/<username>/carlisle-flood-hec.git
+git clone https://github.com/muhshandy-dev/carlisle-flood-hec.git
 cd carlisle-flood-hec
 pip install -r requirements.txt
 ```
