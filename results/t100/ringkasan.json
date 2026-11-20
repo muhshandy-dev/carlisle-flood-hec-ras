@@ -1,0 +1,19 @@
+{
+ "bangunan_tergenang_(>=0,15 m)": 1057,
+ "bangunan_per_kelas": {
+  "Rendah": 451,
+  "Sedang": 378,
+  "Tinggi": 228
+ },
+ "bangunan_penting_tergenang": {
+  "Further Education": 6,
+  "Place Of Worship": 4,
+  "Sports And Leisure Centre": 3,
+  "Primary Education": 3,
+  "Secondary Education": 2,
+  "Library": 2,
+  "Art Gallery": 1,
+  "Post Office": 1,
+  "Higher or University Education": 1
+ }
+}

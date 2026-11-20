@@ -1,0 +1,12 @@
+pos,sungai,dekat_batas,puncak_obs,puncak_sim,selisih_puncak_m,selisih_waktu_jam,NSE,lolos_puncak_0_3m
+Skew Bridge,River Caldew,False,16.57,15.95,-0.62,1.0,0.75,False
+Sands Centre,River Eden,False,16.01,16.3,0.29,-1.0,0.53,True
+Denton Holme,River Caldew,False,17.73,17.55,-0.18,0.0,0.68,True
+Sheepmount,River Eden,False,14.58,14.98,0.4,-1.0,0.37,False
+Melbourne Park,River Petteril,False,17.23,16.84,-0.39,2.0,0.81,False
+Botcherby Bridge,River Petteril,False,16.98,16.69,-0.29,1.0,0.82,True
+Harraby Green Business Park,River Petteril,False,23.3,22.9,-0.4,0.0,0.84,False
+Cummersdale,River Caldew,True,25.32,25.87,0.55,0.0,0.22,False
+Linstock,River Eden,False,17.27,17.15,-0.12,-1.0,0.66,True
+Newbiggin Bridge,River Petteril,True,41.18,41.9,0.72,-1.0,-0.21,False
+Greenholme,River Irthing,True,22.14,23.82,1.68,-36.0,-7.99,False

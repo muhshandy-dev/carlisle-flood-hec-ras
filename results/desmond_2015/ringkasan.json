@@ -1,0 +1,28 @@
+{
+ "CSI": 0.541,
+ "hit_rate": 0.896,
+ "false_alarm_ratio": 0.422,
+ "luas_genangan_sim_km2": 20.55,
+ "luas_genangan_resmi_km2": 13.26,
+ "lolos_CSI": true,
+ "bangunan_tergenang_(>=0,15 m)": 1137,
+ "bangunan_per_kelas": {
+  "Rendah": 345,
+  "Sedang": 394,
+  "Tinggi": 398
+ },
+ "bangunan_penting_tergenang": {
+  "Further Education": 8,
+  "Place Of Worship": 4,
+  "Primary Education": 3,
+  "Sports And Leisure Centre": 3,
+  "Secondary Education": 2,
+  "Art Gallery": 2,
+  "Library": 2,
+  "Post Office": 1,
+  "Higher or University Education": 1
+ },
+ "properti_tercatat_laporan": 2128,
+ "selisih_jumlah_bangunan_pct": -46.6,
+ "catatan_properti": "Satu gedung OS dapat berisi banyak properti (flat/ruko); bandingkan sebagai indikasi, bukan angka pasti."
+}
