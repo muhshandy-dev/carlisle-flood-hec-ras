@@ -1,0 +1,357 @@
+Basin: Eden
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 04:06:29
+     Version: 4.14
+     Filepath Separator: \
+     Unit System: Metric
+     Missing Flow To Zero: No
+     Enable Flow Ratio: No
+     Compute Local Flow At Junctions: No
+     Unregulated Output Required: No
+
+     Enable Sediment Routing: No
+End:
+
+Subbasin: Eamont_Udford
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 06:06:16
+     Canvas X: -6781.667797881585
+     Canvas Y: -3784.2347054904744
+     From Canvas X: -1013.0293159609118
+     From Canvas Y: -2348.534201954397
+     Area: 407.0
+     Downstream: R2
+
+     Discretization: None
+     File: Eden.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 1.8
+     Curve Number: 63.6
+     Initial Abstraction: 10
+
+     Transform: SCS
+     Lag: 330.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: Recession
+     Recession Factor: 0.85
+     Initial Baseflow: 31.22
+     Threshold Flow to Peak Ratio: 0.1
+End:
+
+Subbasin: Eden_TempleSowerby
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 06:06:14
+     Canvas X: -7906.527758417687
+     Canvas Y: 7697.707016218466
+     From Canvas X: -1371.335504885993
+     From Canvas Y: 224.75570032573341
+     Area: 618.2
+     Observed Hydrograph Gage: Obs_TempleSowerby
+     Downstream: R1
+
+     Discretization: None
+     File: Eden.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 1.0
+     Curve Number: 63.0
+     Initial Abstraction: 10
+
+     Transform: SCS
+     Lag: 555.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: Recession
+     Recession Factor: 0.85
+     Initial Baseflow: 59.43
+     Threshold Flow to Peak Ratio: 0.1
+End:
+
+Reach: R1
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 04:44:00
+     Canvas X: 5181.60244386474
+     Canvas Y: 3702.071708651966
+     From Canvas X: -3618.892508143322
+     From Canvas Y: 1755.7003257328997
+     Downstream: J_GreatCorby
+
+     Route: Lag
+     Initial Variable: Combined Inflow
+     Lag: 360.0
+     Channel Loss: None
+End:
+
+Reach: R2
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 04:44:00
+     Canvas X: 5181.60244386474
+     Canvas Y: 3702.071708651966
+     From Canvas X: -2771.9869706840386
+     From Canvas Y: 289.90228013029355
+     Downstream: J_GreatCorby
+
+     Route: Lag
+     Initial Variable: Combined Inflow
+     Lag: 300.0
+     Channel Loss: None
+End:
+
+Subbasin: Eden_Tengah
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 06:06:09
+     Canvas X: 4781.003281036076
+     Canvas Y: -471.3224044487615
+     From Canvas X: 4133.550488599348
+     From Canvas Y: -2413.680781758957
+     Area: 346.5
+     Downstream: J_GreatCorby
+
+     Discretization: None
+     File: Eden.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.8
+     Curve Number: 62.5
+     Initial Abstraction: 10
+
+     Transform: SCS
+     Lag: 431.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: Recession
+     Recession Factor: 0.85
+     Initial Baseflow: 47.46
+     Threshold Flow to Peak Ratio: 0.1
+End:
+
+Junction: J_GreatCorby
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 05:38:12
+     Canvas X: 5181.60244386474
+     Canvas Y: 3702.071708651966
+     From Canvas X: 1690.5537459283387
+     From Canvas Y: -133.55048859934777
+     Observed Hydrograph Gage: Obs_GreatCorby
+     Downstream: R3
+End:
+
+Reach: R3
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 06:04:45
+     Canvas X: 11869.706840390878
+     Canvas Y: 1120.5211726384362
+     From Canvas X: 5181.60244386474
+     From Canvas Y: 3702.071708651966
+     Downstream: J_Sheepmount
+
+     Route: Lag
+     Initial Variable: Combined Inflow
+     Lag: 270.0
+     Channel Loss: None
+End:
+
+Subbasin: Irthing_Greenholme
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 06:05:42
+     Canvas X: 6673.172904210282
+     Canvas Y: -5026.379625281061
+     From Canvas X: -4270.358306188925
+     From Canvas Y: -1990.2280130293148
+     Area: 333.4
+     Observed Hydrograph Gage: Obs_Greenholme
+     Downstream: J_Sheepmount
+
+     Discretization: None
+     File: Eden.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.6
+     Curve Number: 60.6
+     Initial Abstraction: 10
+
+     Transform: SCS
+     Lag: 494.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: Recession
+     Recession Factor: 0.85
+     Initial Baseflow: 29.16
+     Threshold Flow to Peak Ratio: 0.1
+End:
+
+Subbasin: Caldew_Cummersdale
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 06:05:46
+     Canvas X: 13603.525676842348
+     Canvas Y: -2547.539159738749
+     From Canvas X: 4589.57654723127
+     From Canvas Y: 2276.8729641693817
+     Area: 249.7
+     Observed Hydrograph Gage: Obs_Cummersdale
+     Downstream: J_Sheepmount
+
+     Discretization: None
+     File: Eden.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 0.7
+     Curve Number: 63.0
+     Initial Abstraction: 10
+
+     Transform: SCS
+     Lag: 374.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: Recession
+     Recession Factor: 0.85
+     Initial Baseflow: 16.47
+     Threshold Flow to Peak Ratio: 0.1
+End:
+
+Subbasin: Lokal_Carlisle
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 06:05:53
+     Canvas X: 15738.636301598797
+     Canvas Y: 5118.849822647093
+     From Canvas X: -12413.680781758956
+     From Canvas Y: 2244.2996742671016
+     Area: 175.3
+     Downstream: J_Sheepmount
+
+     Discretization: None
+     File: Eden.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 8.1
+     Curve Number: 64.6
+     Initial Abstraction: 10
+
+     Transform: SCS
+     Lag: 425.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: Recession
+     Recession Factor: 0.85
+     Initial Baseflow: 13.45
+     Threshold Flow to Peak Ratio: 0.1
+End:
+
+Subbasin: Petteril_NewbigginBridge
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 06:05:56
+     Canvas X: 19481.54126028461
+     Canvas Y: 253.54935059912304
+     From Canvas X: -11501.628664495112
+     From Canvas Y: 615.6351791530951
+     Area: 145.8
+     Observed Hydrograph Gage: Obs_NewbigginBridge
+     Downstream: J_Sheepmount
+
+     Discretization: None
+     File: Eden.sqlite
+
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+
+     Surface: None
+
+     LossRate: SCS
+     Percent Impervious Area: 2.0
+     Curve Number: 64.3
+     Initial Abstraction: 10
+
+     Transform: SCS
+     Lag: 350.0
+     Unitgraph Type: STANDARD
+
+     Baseflow: Recession
+     Recession Factor: 0.85
+     Initial Baseflow: 5.89
+     Threshold Flow to Peak Ratio: 0.1
+End:
+
+Junction: J_Sheepmount
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 05:38:51
+     Canvas X: 11869.706840390878
+     Canvas Y: 1120.5211726384362
+     From Canvas X: -280.1302931596091
+     From Canvas Y: 1674.2671009771987
+     Observed Hydrograph Gage: Obs_Sheepmount
+End:
+
+Basin Layer Properties:
+     Element Layer:
+          Name: Icons
+          Layer shown: Yes
+     End Layer:
+End:
+
+Basin Spatial Properties:
+End:
+
+Basin Schematic Properties:
+     Last View N: 7697.707016218466
+     Last View S: -5026.379625281061
+     Last View W: -7906.527758417687
+     Last View E: 19481.54126028461
+     Maximum View N: 7697.707016218466
+     Maximum View S: -5026.379625281061
+     Maximum View W: -7906.527758417687
+     Maximum View E: 19481.54126028461
+     Extent Method: Manual
+     Buffer: 0
+     Draw Icons: Yes
+     Draw Icon Labels: Name
+     Draw Map Objects: No
+     Draw Gridlines: No
+     Draw Flow Direction: No
+     Draw HillShade Layer: Yes
+     Draw Elevation Layer: Yes
+     Elevation Layer Color Palette: Gray Scale
+     Ignore Elevation Color Ramp Scale: No
+     Use Interpolated Color Ramp for Elevation Layer: Yes
+     Color Ramp Opacity Level for Elevation Layer: 33.0
+     Fix Element Locations: No
+     Fix Hydrologic Order: No
+End:

@@ -1,0 +1,6 @@
+{
+ "kemiringan_muka_air_puncak_Desmond": 0.00093,
+ "kemiringan_muka_air_awal": 0.00063,
+ "sumber": "Sands Centre -> Sheepmount, jarak sungai ~1.6 km",
+ "saran_batas_hilir": "Normal Depth dengan friction slope ~ nilai di atas (0,0005-0,001); uji sensitivitas +/-50%"
+}

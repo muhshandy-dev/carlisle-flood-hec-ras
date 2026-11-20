@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+matplotlib
+geopandas
+shapely
+rasterio
+requests
+h5py
+rashdf
+hecdss
+pysheds
+pyvista

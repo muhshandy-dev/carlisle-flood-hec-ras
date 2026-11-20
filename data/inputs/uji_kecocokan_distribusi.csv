@@ -1,0 +1,5 @@
+distribusi,D_maks,D_kritis_5pct,lolos_SK,chi2,chi2_kritis_5pct,lolos_chi2,syarat_parameter,parameter_terpenuhi
+Normal,0.173,0.233,True,10.12,7.81,False,Cs≈0; Ck≈3,False
+Log Normal,0.111,0.233,True,2.0,7.81,True,Cs≈3Cv+Cv³,False
+Gumbel,0.115,0.233,True,2.35,7.81,True,"Cs≈1,14; Ck≈5,4",False
+Log Pearson III,0.097,0.233,True,6.94,7.81,True,bebas (selain di atas),True

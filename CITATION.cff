@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Jika memakai repositori ini, mohon sitasi sebagai berikut."
+title: "Simulasi Banjir HEC-HMS + HEC-RAS 2D: Studi Kasus Carlisle (Storm Desmond 2015)"
+authors:
+  - family-names: Alfarizal
+    given-names: Muhammad Shandy
+date-released: 2026-11-20
+license: MIT
+keywords: [HEC-HMS, HEC-RAS, flood modelling, 2D hydraulics, Carlisle, Storm Desmond, Ibu Kota Nusantara]

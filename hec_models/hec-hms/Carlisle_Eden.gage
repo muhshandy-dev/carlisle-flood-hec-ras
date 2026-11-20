@@ -1,0 +1,229 @@
+Gage Manager: 
+     Gage Manager: 
+     Version: 4.14
+     Filepath Separator: \
+End: 
+
+Gage: Eden_Tengah
+     Gage: Eden_Tengah
+     Gage Type: Precipitation
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 05:19:43
+     Reference Height Units: Meters
+     Reference Height: 9.9999
+     Data Source Type: External DSS
+     Filename: C:\Users\shand\Downloads\Carlisle_paket_data_HEC\data_carlisle_hms.dss
+     Pathname: /EDEN/EDEN_TENGAH/PRECIP-INC/03Dec2015 - 09Dec2015/15Minute/DESMOND_2015/
+     Variant: Variant-1
+       Start Time: 1 January 2000, 00:00
+       End Time: 2 January 2000, 00:00
+     End Variant: Variant-1
+End: 
+
+Gage: Eamont_Udford
+     Gage: Eamont_Udford
+     Gage Type: Precipitation
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 05:22:28
+     Reference Height Units: Meters
+     Reference Height: 9.9999
+     Data Source Type: External DSS
+     Filename: C:\Users\shand\Downloads\Carlisle_paket_data_HEC\data_carlisle_hms.dss
+     Pathname: /EDEN/EAMONT_UDFORD/PRECIP-INC/03Dec2015 - 09Dec2015/15Minute/DESMOND_2015/
+     Variant: Variant-1
+       Start Time: 1 January 2000, 00:00
+       End Time: 2 January 2000, 00:00
+     End Variant: Variant-1
+End: 
+
+Gage: Obs_TempleSowerby
+     Gage: Obs_TempleSowerby
+     Gage Type: Flow
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 05:26:29
+     Reference Height Units: Meters
+     Reference Height: 9.9999
+     Data Source Type: External DSS
+     Filename: C:\Users\shand\Downloads\Carlisle_paket_data_HEC\data_carlisle_hms.dss
+     Pathname: /EDEN/EDEN_TEMPLESOWERBY/FLOW/02Dec2015 - 09Dec2015/15Minute/OBS_DESMOND_2015/
+     Variant: Variant-1
+       Start Time: 1 January 2000, 00:00
+       End Time: 2 January 2000, 00:00
+     End Variant: Variant-1
+End: 
+
+Gage: Eden_TempleSowerby
+     Gage: Eden_TempleSowerby
+     Gage Type: Precipitation
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 05:19:58
+     Reference Height Units: Meters
+     Reference Height: 9.9999
+     Data Source Type: External DSS
+     Filename: C:\Users\shand\Downloads\Carlisle_paket_data_HEC\data_carlisle_hms.dss
+     Pathname: /EDEN/EDEN_TEMPLESOWERBY/PRECIP-INC/03Dec2015 - 09Dec2015/15Minute/DESMOND_2015/
+     Variant: Variant-1
+       Start Time: 1 January 2000, 00:00
+       End Time: 2 January 2000, 00:00
+     End Variant: Variant-1
+End: 
+
+Gage: Caldew_Cummersdale
+     Gage: Caldew_Cummersdale
+     Gage Type: Precipitation
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 05:20:05
+     Reference Height Units: Meters
+     Reference Height: 9.9999
+     Data Source Type: External DSS
+     Filename: C:\Users\shand\Downloads\Carlisle_paket_data_HEC\data_carlisle_hms.dss
+     Pathname: /EDEN/CALDEW_CUMMERSDALE/PRECIP-INC/03Dec2015 - 09Dec2015/15Minute/DESMOND_2015/
+     Variant: Variant-1
+       Start Time: 1 January 2000, 00:00
+       End Time: 2 January 2000, 00:00
+     End Variant: Variant-1
+End: 
+
+Gage: Obs_GreatCorby
+     Gage: Obs_GreatCorby
+     Gage Type: Flow
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 05:26:34
+     Reference Height Units: Meters
+     Reference Height: 9.9999
+     Data Source Type: External DSS
+     Filename: C:\Users\shand\Downloads\Carlisle_paket_data_HEC\data_carlisle_hms.dss
+     Pathname: /EDEN/EDEN_GREATCORBY/FLOW/02Dec2015 - 09Dec2015/15Minute/OBS_DESMOND_2015/
+     Variant: Variant-1
+       Start Time: 1 January 2000, 00:00
+       End Time: 2 January 2000, 00:00
+     End Variant: Variant-1
+End: 
+
+Gage: Petteril_NewbigginBridge
+     Gage: Petteril_NewbigginBridge
+     Gage Type: Precipitation
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 05:19:41
+     Reference Height Units: Meters
+     Reference Height: 9.9999
+     Data Source Type: External DSS
+     Filename: C:\Users\shand\Downloads\Carlisle_paket_data_HEC\data_carlisle_hms.dss
+     Pathname: /EDEN/PETTERIL_NEWBIGGINBRIDGE/PRECIP-INC/03Dec2015 - 09Dec2015/15Minute/DESMOND_2015/
+     Variant: Variant-1
+       Start Time: 1 January 2000, 00:00
+       End Time: 2 January 2000, 00:00
+     End Variant: Variant-1
+End: 
+
+Gage: Obs_Cummersdale
+     Gage: Obs_Cummersdale
+     Gage Type: Flow
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 05:26:50
+     Reference Height Units: Meters
+     Reference Height: 9.9999
+     Data Source Type: External DSS
+     Filename: C:\Users\shand\Downloads\Carlisle_paket_data_HEC\data_carlisle_hms.dss
+     Pathname: /EDEN/CALDEW_CUMMERSDALE/FLOW/02Dec2015 - 09Dec2015/15Minute/OBS_DESMOND_2015/
+     Variant: Variant-1
+       Start Time: 1 January 2000, 00:00
+       End Time: 2 January 2000, 00:00
+     End Variant: Variant-1
+End: 
+
+Gage: Obs_Sheepmount
+     Gage: Obs_Sheepmount
+     Gage Type: Flow
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 05:26:30
+     Reference Height Units: Meters
+     Reference Height: 9.9999
+     Data Source Type: External DSS
+     Filename: C:\Users\shand\Downloads\Carlisle_paket_data_HEC\data_carlisle_hms.dss
+     Pathname: /EDEN/EDEN_SHEEPMOUNT/FLOW/02Dec2015 - 09Dec2015/15Minute/OBS_DESMOND_2015/
+     Variant: Variant-1
+       Start Time: 1 January 2000, 00:00
+       End Time: 2 January 2000, 00:00
+     End Variant: Variant-1
+End: 
+
+Gage: Lokal_Carlisle
+     Gage: Lokal_Carlisle
+     Gage Type: Precipitation
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 05:19:40
+     Reference Height Units: Meters
+     Reference Height: 9.9999
+     Data Source Type: External DSS
+     Filename: C:\Users\shand\Downloads\Carlisle_paket_data_HEC\data_carlisle_hms.dss
+     Pathname: /EDEN/LOKAL_CARLISLE/PRECIP-INC/03Dec2015 - 09Dec2015/15Minute/DESMOND_2015/
+     Variant: Variant-1
+       Start Time: 1 January 2000, 00:00
+       End Time: 2 January 2000, 00:00
+     End Variant: Variant-1
+End: 
+
+Gage: Obs_Greenholme
+     Gage: Obs_Greenholme
+     Gage Type: Flow
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 05:26:33
+     Reference Height Units: Meters
+     Reference Height: 9.9999
+     Data Source Type: External DSS
+     Filename: C:\Users\shand\Downloads\Carlisle_paket_data_HEC\data_carlisle_hms.dss
+     Pathname: /EDEN/IRTHING_GREENHOLME/FLOW/02Dec2015 - 09Dec2015/15Minute/OBS_DESMOND_2015/
+     Variant: Variant-1
+       Start Time: 1 January 2000, 00:00
+       End Time: 2 January 2000, 00:00
+     End Variant: Variant-1
+End: 
+
+Gage: T100
+     Gage: T100
+     Gage Type: Precipitation
+     Last Modified Date: 20 November 2026
+     Last Modified Time: 13:25:00
+     Reference Height Units: Meters
+     Reference Height: 9.9999
+     Data Source Type: External DSS
+     Filename: C:\Users\shand\Downloads\Carlisle_paket_data_HEC\data_carlisle_hms.dss
+     Pathname: /EDEN/HUJAN_RENCANA/PRECIP-INC/01Jan2000/1Hour/T100_ABM24JAM/
+     Variant: Variant-1
+       Start Time: 1 January 2000, 00:00
+       End Time: 2 January 2000, 00:00
+     End Variant: Variant-1
+End: 
+
+Gage: Obs_NewbigginBridge
+     Gage: Obs_NewbigginBridge
+     Gage Type: Flow
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 05:26:32
+     Reference Height Units: Meters
+     Reference Height: 9.9999
+     Data Source Type: External DSS
+     Filename: C:\Users\shand\Downloads\Carlisle_paket_data_HEC\data_carlisle_hms.dss
+     Pathname: /EDEN/PETTERIL_NEWBIGGINBRIDGE/FLOW/02Dec2015 - 09Dec2015/15Minute/OBS_DESMOND_2015/
+     Variant: Variant-1
+       Start Time: 1 January 2000, 00:00
+       End Time: 2 January 2000, 00:00
+     End Variant: Variant-1
+End: 
+
+Gage: Irthing_Greenholme
+     Gage: Irthing_Greenholme
+     Gage Type: Precipitation
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 05:28:43
+     Reference Height Units: Meters
+     Reference Height: 9.9999
+     Data Source Type: External DSS
+     Filename: C:\Users\shand\Downloads\Carlisle_paket_data_HEC\data_carlisle_hms.dss
+     Pathname: /EDEN/IRTHING_GREENHOLME/PRECIP-INC/03Dec2015 - 09Dec2015/15Minute/DESMOND_2015/
+     Variant: Variant-1
+       Start Time: 1 January 2000, 00:00
+       End Time: 2 January 2000, 00:00
+     End Variant: Variant-1
+End: 

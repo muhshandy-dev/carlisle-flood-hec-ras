@@ -1,0 +1,39 @@
+Project: Carlisle_Eden
+     Description: Training of Storm Desmond 2015
+     Version: 4.14
+     Filepath Separator: \
+     DSS File Name: Carlisle_Eden.dss
+     Time Zone ID: Asia/Makassar
+End:
+
+Precipitation: Desmond
+     Filename: Desmond.met
+     Description: 
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 05:33:26
+End:
+
+Precipitation: T100
+     Filename: T100.met
+     Description: Hujan rencana T100 ABM 24 jam
+     Last Modified Date: 20 November 2026
+     Last Modified Time: 13:25:00
+End:
+
+Basin: Eden
+     Filename: Eden.basin
+     Description: 
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 06:06:16
+End:
+
+Control: Desmond
+     FileName: Desmond.control
+     Description: 
+End:
+
+Control: T100
+     FileName: T100.control
+     Description: 
+End:
+

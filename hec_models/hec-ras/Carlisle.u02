@@ -1,0 +1,185 @@
+Flow Title=T100
+Program Version=6.60
+Use Restart= 0 
+Restart Filename=
+Boundary Location=                ,                ,        ,        ,                ,Carlisle        ,                ,BC_Eden_hulu                    ,                                
+Interval=15MIN
+Flow Hydrograph= 169 
+  138.11  137.97  137.84  137.70  137.57  137.43  137.30  137.17  137.04  136.92
+  136.79  136.67  136.55  136.43  136.31  136.20  136.09  135.99  135.88  135.78
+  135.69  135.50  135.32  135.15  134.99  134.66  134.33  134.02  133.72  133.43
+  133.15  132.90  132.66  132.45  132.26  132.10  131.97  131.88  131.82  131.81
+  131.84  131.94  132.11  132.37  132.73  133.36  134.38  135.96  138.34  141.49
+  145.49  150.33  155.91  162.18  169.17  176.99  185.73  195.44  206.18  218.03
+  231.00  245.03  259.93  275.43  291.20  307.35  323.99  341.53  360.44  380.68
+  402.35  425.34  449.71  475.50  503.27  533.38  565.96  600.63  636.69  673.25
+  709.42  744.58  778.44  810.82  841.46  870.05  896.44  920.74  943.16  963.78
+  982.35  998.44 1011.90 1023.12 1032.72 1040.89 1047.43 1052.13 1054.83 1055.33
+ 1053.60 1049.95 1044.93 1039.16 1033.01 1026.59 1019.96 1013.10 1005.94  998.42
+  990.43  981.79  972.37  962.16  951.31  939.97  928.23  916.13  903.70  890.93
+  877.82  864.33  850.43  836.05  821.08  805.44  789.06  771.93  754.15  735.89
+  717.39  698.85  680.41  662.19  644.28  626.69  609.43  592.46  575.73  559.21
+  542.91  526.87  511.17  495.84  480.89  466.32  452.12  438.30  424.86  411.80
+  399.14  386.87  375.00  363.49  352.31  341.45  330.89  320.63  310.68  301.04
+  291.70  282.68  273.97  265.58  257.50  249.72  242.21  234.96  227.96
+Stage Hydrograph TW Check=0
+Flow Hydrograph Slope= 0.001 
+DSS Path=
+Use DSS=False
+Use Fixed Start Time=True
+Fixed Start Date/Time=01JAN2000,0000
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=                ,                ,        ,        ,                ,Carlisle        ,                ,BC_Irthing                      ,                                
+Interval=15MIN
+Flow Hydrograph= 169 
+   29.16   29.08   28.99   28.91   28.83   28.74   28.66   28.58   28.50   28.42
+   28.35   28.27   28.19   28.12   28.04   27.97   27.90   27.83   27.77   27.70
+   27.64   27.58   27.52   27.46   27.40   27.35   27.30   27.24   27.19   27.14
+   27.10   27.05   27.01   26.98   26.95   26.94   26.93   26.94   26.97   27.01
+   27.08   27.19   27.33   27.53   27.78   28.20   28.87   29.89   31.40   33.37
+   35.88   38.94   42.51   46.51   50.93   55.79   61.15   67.05   73.51   80.57
+   88.27   96.61  105.59  115.19  125.28  135.68  146.20  156.63  166.86  176.76
+  186.27  195.32  203.88  211.90  219.35  226.15  232.27  237.73  242.59  246.97
+  250.91  254.37  257.24  259.40  260.85  261.67  262.00  261.94  261.55  260.83
+  259.76  258.33  256.53  254.34  251.73  248.69  245.21  241.31  237.09  232.67
+  228.17  223.69  219.31  215.05  210.92  206.91  202.94  199.00  195.05  191.10
+  187.16  183.23  179.30  175.37  171.44  167.50  163.53  159.54  155.53  151.47
+  147.39  143.28  139.15  135.02  130.91  126.84  122.82  118.87  115.01  111.23
+  107.53  103.90  100.34   96.87   93.47   90.17   86.96   83.84   80.82   77.88
+   75.04   72.29   69.63   67.08   64.62   62.27   60.03   57.90   55.89   53.99
+   52.19   50.49   48.87   47.34   45.88   44.49   43.15   41.88   40.66   39.50
+   38.40   37.34   36.33   35.37   34.45   33.56   32.71   31.90   31.12
+Stage Hydrograph TW Check=0
+Flow Hydrograph Slope= 0.001 
+DSS Path=
+Use DSS=False
+Use Fixed Start Time=True
+Fixed Start Date/Time=01JAN2000,0000
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=                ,                ,        ,        ,                ,Carlisle        ,                ,BC_Caldew                       ,                                
+Interval=15MIN
+Flow Hydrograph= 169 
+   16.47   16.42   16.38   16.33   16.28   16.24   16.20   16.15   16.11   16.07
+   16.04   16.00   15.97   15.94   15.91   15.88   15.86   15.83   15.81   15.80
+   15.78   15.77   15.75   15.74   15.73   15.72   15.71   15.70   15.69   15.69
+   15.68   15.68   15.69   15.70   15.73   15.77   15.82   15.90   16.01   16.15
+   16.34   16.58   16.90   17.29   17.79   18.56   19.72   21.49   24.11   27.54
+   31.83   36.93   42.76   49.32   56.71   65.02   74.32   84.63   95.97  108.25
+  121.20  134.46  147.62  160.37  172.51  183.92  194.47  204.06  212.60  220.02
+  226.41  231.89  236.56  240.34  243.05  244.62  245.21  245.08  244.37  243.10
+  241.23  238.75  235.61  231.78  227.26  222.13  216.61  210.95  205.41  200.11
+  195.09  190.33  185.75  181.31  177.00  172.84  168.87  165.05  161.39  157.83
+  154.35  150.91  147.47  144.02  140.55  137.07  133.59  130.09  126.59  123.06
+  119.49  115.86  112.17  108.43  104.65  100.85   97.04   93.24   89.47   85.74
+   82.09   78.51   75.00   71.58   68.25   65.03   61.93   58.95   56.08   53.33
+   50.69   48.17   45.77   43.50   41.36   39.36   37.49   35.76   34.15   32.65
+   31.25   29.92   28.68   27.52   26.43   25.40   24.45   23.54   22.70   21.90
+   21.14   20.43   19.76   19.12   18.52   17.96   17.43   16.93   16.46   16.01
+   15.59   15.18   14.80   14.42   14.07   13.99   13.95   13.91   13.86
+Stage Hydrograph TW Check=0
+Flow Hydrograph Slope= 0.002 
+DSS Path=
+Use DSS=False
+Use Fixed Start Time=True
+Fixed Start Date/Time=01JAN2000,0000
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=                ,                ,        ,        ,                ,Carlisle        ,                ,BC_Petteril                     ,                                
+Interval=15MIN
+Flow Hydrograph= 169 
+    5.89    5.87    5.86    5.84    5.83    5.82    5.81    5.80    5.80    5.80
+    5.80    5.80    5.81    5.83    5.84    5.87    5.89    5.92    5.96    6.00
+    6.04    6.08    6.12    6.17    6.21    6.26    6.31    6.36    6.41    6.46
+    6.51    6.57    6.62    6.69    6.76    6.84    6.94    7.05    7.18    7.34
+    7.53    7.77    8.05    8.40    8.83    9.45   10.36   11.73   13.73   16.33
+   19.55   23.35   27.68   32.56   38.09   44.32   51.29   59.00   67.40   76.31
+   85.46   94.52  103.25  111.51  119.20  126.23  132.52  137.99  142.66  146.61
+  149.93  152.61  154.54  155.65  156.00  155.80  155.18  154.15  152.67  150.74
+  148.32  145.39  141.98  138.20  134.24  130.30  126.52  122.95  119.58  116.35
+  113.24  110.22  107.33  104.57  101.95   99.45   97.07   94.77   92.51   90.27
+   88.05   85.83   83.63   81.46   79.33   77.21   75.09   72.96   70.79   68.57
+   66.29   63.97   61.60   59.21   56.81   54.41   52.03   49.67   47.35   45.08
+   42.85   40.68   38.56   36.51   34.54   32.65   30.83   29.09   27.43   25.85
+   24.35   22.94   21.62   20.39   19.26   18.21   17.24   16.35   15.51   14.72
+   13.99   13.31   12.68   12.09   11.83   11.81   11.78   11.75   11.73   11.70
+   11.67   11.65   11.62   11.59   11.56   11.54   11.51   11.49   11.46   11.43
+   11.41   11.38   11.35   11.33   11.30   11.27   11.25   11.22   11.20
+Stage Hydrograph TW Check=0
+Flow Hydrograph Slope= 0.002 
+DSS Path=
+Use DSS=False
+Use Fixed Start Time=True
+Fixed Start Date/Time=01JAN2000,0000
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=                ,                ,        ,        ,                ,Carlisle        ,                ,BC_Eden_hilir                   ,                                
+Friction Slope=0.0007,0
+Met Point Raster Parameters=,,,,
+Precipitation Mode=Disable
+Wind Mode=No Wind Forces
+Air Density Mode=
+Met BC=Precipitation|Expanded View=0
+Met BC=Precipitation|Point Interpolation=Nearest
+Met BC=Precipitation|Gridded Source=DSS
+Met BC=Evapotranspiration|Expanded View=0
+Met BC=Evapotranspiration|Point Interpolation=Nearest
+Met BC=Evapotranspiration|Gridded Source=DSS
+Met BC=Wind Speed|Expanded View=0
+Met BC=Wind Speed|Point Interpolation=Nearest
+Met BC=Wind Speed|Gridded Source=DSS
+Met BC=Wind Direction|Expanded View=0
+Met BC=Wind Direction|Point Interpolation=Nearest
+Met BC=Wind Direction|Gridded Source=DSS
+Met BC=Wind Velocity X|Expanded View=0
+Met BC=Wind Velocity X|Point Interpolation=Nearest
+Met BC=Wind Velocity X|Gridded Source=DSS
+Met BC=Wind Velocity Y|Expanded View=0
+Met BC=Wind Velocity Y|Point Interpolation=Nearest
+Met BC=Wind Velocity Y|Gridded Source=DSS
+Met BC=Air Density|Mode=Constant
+Met BC=Air Density|Expanded View=0
+Met BC=Air Density|Constant Value=1.225
+Met BC=Air Density|Constant Units=kg/m3
+Met BC=Air Density|Point Interpolation=Nearest
+Met BC=Air Density|Gridded Source=DSS
+Met BC=Air Temperature|Expanded View=0
+Met BC=Air Temperature|Point Interpolation=Nearest
+Met BC=Air Temperature|Gridded Source=DSS
+Met BC=Humidity|Expanded View=0
+Met BC=Humidity|Point Interpolation=Nearest
+Met BC=Humidity|Gridded Source=DSS
+Met BC=Air Pressure|Mode=Constant
+Met BC=Air Pressure|Expanded View=0
+Met BC=Air Pressure|Constant Value=1013.2
+Met BC=Air Pressure|Constant Units=mb
+Met BC=Air Pressure|Point Interpolation=Inv Distance
+Met BC=Air Pressure|Gridded Source=DSS
+Non-Newtonian Method= 0 , 
+Non-Newtonian Constant Vol Conc=0
+Non-Newtonian Yield Method= 0 , 
+Non-Newtonian Yield Coef=0, 0
+User Yeild=   0
+Non-Newtonian Sed Visc= 0 , 
+Non-Newtonian Obrian B=0
+User Viscosity=0
+User Viscosity Ratio=0
+Herschel-Bulkley Coef=0, 0
+Clastic Method= 0 , 
+Coulomb Phi=0
+Voellmy X=0
+Non-Newtonian Hindered FV= 0 
+Non-Newtonian FV K=0
+Non-Newtonian ds=0
+Non-Newtonian Max Cv=0
+Non-Newtonian Bulking Method= 0 , 
+Non-Newtonian High C Transport= 0 , 
+Lava Activation= 0 
+Temperature=1300,15,,15,14,980
+Heat Ballance=1,1200,0.5,1,70,0.95
+Viscosity=1000,,,
+Yield Strength=,,,
+Consistency Factor=,,,
+Profile Coefficient=4,1.3,
+Lava Param=,2500,

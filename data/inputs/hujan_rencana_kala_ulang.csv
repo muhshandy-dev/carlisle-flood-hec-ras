@@ -1,0 +1,7 @@
+kala_ulang_tahun,Normal_mm,LogNormal_mm,Gumbel_mm,LogPearsonIII_mm,dipilih,hujan_rencana_24jam_mm
+2,38.3,36.7,36.3,35.5,Log Pearson III,35.5
+5,48.7,46.7,47.2,46.0,Log Pearson III,46.0
+10,54.1,53.0,54.4,53.8,Log Pearson III,53.8
+25,59.9,60.6,63.5,64.7,Log Pearson III,64.7
+50,63.6,66.1,70.3,73.5,Log Pearson III,73.5
+100,67.0,71.4,77.0,83.0,Log Pearson III,83.0

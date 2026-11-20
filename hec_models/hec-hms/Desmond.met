@@ -1,0 +1,65 @@
+Meteorology: Desmond
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 05:30:10
+     Version: 4.14
+     Unit System: Metric
+     Set Missing Data to Default: No
+     Precipitation Method: Specified Average
+     Air Temperature Method: None
+     Atmospheric Pressure Method: None
+     Dew Point Method: None
+     Wind Speed Method: None
+     Shortwave Radiation Method: None
+     Longwave Radiation Method: None
+     Snowmelt Method: None
+     Evapotranspiration Method: No Evapotranspiration
+     Use Basin Model: Eden
+End:
+
+Precip Method Parameters: Specified Average
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 05:28:13
+     Allow Depth Override: No
+End:
+
+Subbasin: Eamont_Udford
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 05:33:26
+     Gage: Eamont_Udford
+End:
+
+Subbasin: Lokal_Carlisle
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 05:33:26
+     Gage: Lokal_Carlisle
+End:
+
+Subbasin: Eden_Tengah
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 05:33:26
+     Gage: Eden_Tengah
+End:
+
+Subbasin: Irthing_Greenholme
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 05:33:26
+     Gage: Irthing_Greenholme
+End:
+
+Subbasin: Caldew_Cummersdale
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 05:33:26
+     Gage: Caldew_Cummersdale
+End:
+
+Subbasin: Petteril_NewbigginBridge
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 05:33:26
+     Gage: Petteril_NewbigginBridge
+End:
+
+Subbasin: Eden_TempleSowerby
+     Last Modified Date: 19 November 2026
+     Last Modified Time: 05:33:26
+     Gage: Eden_TempleSowerby
+End:
